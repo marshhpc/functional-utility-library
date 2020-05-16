@@ -60,7 +60,7 @@ Add a new Bootstrap column to `index.html` by copying and pasting everything bet
 
 **Complete everything from "Introduction to the ES6 Challenges" to "Write Concise Declarative Functions with ES6"** in [JavaScript Algorithms and Data Structures Certification > ES6](https://www.freecodecamp.org/learn/).
 
-As you complete each one, create simple utility functions that demonstrate a working knowledge of the following lessons (you will do all the lessons described above, but make utility functions for these ones found in **"Functional Programming"**):
+As you complete each one, create simple utility functions that demonstrate a working knowledge of the following lessons (you will do all the lessons described above, but make utility functions for these ones found in **JavaScript Algorithms and Data Structures Certification > Functional Programming**):
 
 -  Implement the filter Method on a Prototype
 -  Return Part of an Array Using the slice Method
