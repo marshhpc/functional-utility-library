@@ -115,4 +115,4 @@ Use the exact string values above for the `imagery` and `answer` keys, but now [
 
 ## Step 4: Repeat this process with the next repo
 
-[Algorith Utility Library](https://github.com/punchcode-fullstack/algorithm-utility-library)
+[Algorithm Utility Library](https://github.com/punchcode-fullstack/algorithm-utility-library)
