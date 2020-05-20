@@ -76,6 +76,16 @@ As you complete each one, create simple utility functions that demonstrate a wor
 -  Use the every Method to Check that Every Element in an Array Meets a Criteria
 -  Use the some Method to Check that Any Elements in an Array Meet a Criteria
 
+### More resources to help understand functional programming:
+
+Be sure to go through these!
+
+[A Practical Introduction To Functional Programming (Javascript)](https://medium.com/@riteshkeswani/a-practical-introduction-to-functional-programming-javascript-ba5bee2369c2)
+
+[Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
+
+This is a hard concept, so you want to be sure to get it down! Google and ask lots of questions of your peers and instructors!
+
 ## Step 3: Apply your learning to White Bear
 
 ### On `index.html`
