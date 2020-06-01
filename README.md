@@ -84,6 +84,8 @@ Be sure to go through these!
 
 [Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 
+[JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE&feature=youtu.be)
+
 This is a hard concept, so you want to be sure to get it down! Google and ask lots of questions of your peers and instructors!
 
 ## Step 3: Apply your learning to White Bear
